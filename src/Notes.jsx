@@ -127,16 +127,16 @@ function Notes() {
             <tbody className="table-body">
               {notes &&
                 notes.map((u) => (
-                  <tr>
+                  <tr className="table-rw">
                     <td>{u.title}</td>
                     <td>{u.description}</td>
                     <td>
-                      <Button className="btn2" onClick={() => deleteNote(u.id)}>
+                      <Button className="btn3" onClick={() => deleteNote(u.id)}>
                         Delete 
                       </Button>
                     </td>
                     <td>
-                      <Button className="btn2" onClick={() => handleEdit(u)}>
+                      <Button className="btn3" onClick={() => handleEdit(u)}>
                         Edit 
                       </Button>
                     </td>

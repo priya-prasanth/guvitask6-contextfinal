@@ -88,18 +88,32 @@ width: 90%;
    background-color: whitesmoke;
    width: 94%;
    margin-left: 40px;
+   border: 2px solid blue;
  }
 
  .table-hd {
    text-align: center;
-   border: 3px navy;
+   border: 2px navy;
  }
 
  .table-rw>th {
    color: rgb(35, 35, 74);
+   border: 1px solid rgb(35, 35, 74);
 
+ }
+
+ .table-rw>td{
+  border: 1px solid rgb(35, 35, 74);
+  text-align: center;
+ }
+
+ .btn3{
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 30px;
  }
 
  .table-body {
    text-align: center;
+
  }

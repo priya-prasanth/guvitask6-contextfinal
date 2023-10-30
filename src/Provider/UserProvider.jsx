@@ -4,8 +4,19 @@ import { UserContext } from "../Context/UserContext";
 export const UserProvider = ({ children }) => {
   const [notes, setNotes] = useState([
     {
-      title: "jij",
-      description: "frfr",
+      title: "Feedbacks",
+      description:
+        "lorem Digital feedback management system. we will provide with their class id and password ",
+    },
+    {
+      title: "Weekly Tasks",
+      description:
+        "lorem jiook nprn management system. we will provide a link to students within a few minutes the whole class",
+    },
+    {
+      title: "Lyrics",
+      description:
+        "lorem Digital feedback management system. we will provide a link to students with their class id and password, and boom within a few minutes the whole class or say ...",
     },
   ]);
 
