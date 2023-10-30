@@ -1,0 +1,105 @@
+
+ .h4tag{
+  background-color: rgb(35, 35, 74);
+  text-align: center;
+  color: whitesmoke;
+  margin-top: 20px;
+  margin-left: 20px;
+ }
+
+ .col1{
+  height: 700px;
+  
+ }
+
+.headelement{
+  margin-top: 30px;
+  color:navy;
+  text-align: center;
+  margin-left: 20px;
+ }
+
+ .col2{
+  background-color: rgb(220, 229, 237);
+ }
+ 
+
+ .formtag{
+margin-top: 20px;
+margin-left: 50px;
+border: 2px solid navy;
+border-radius: 19px;
+background-color:whitesmoke;
+width: 90%;
+ }
+
+.formh5{
+  color: navy;
+  font-size: x-large;
+  margin-left: 30px;
+  margin-top: 10px;
+ }
+
+ .flabeltag{
+  color:navy;
+  font-size: larger;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-left: 20px;
+ }
+
+ .flabel2{
+  color: navy;
+  font-size: larger;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-left: 20px;
+ }
+
+ .fcontag{
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 96%;
+  height: 50px;
+ }
+
+ .fcontag2{
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 96%;
+  height: 90px;
+ }
+
+ .btn{
+  margin-left: 30px;
+  background-color: navy;
+  margin-bottom: 20px;
+ }
+
+ .btn2{
+  background-color: navy;
+ }
+
+
+ .tabletag {
+   margin-top: 30px;
+   background-color: whitesmoke;
+   width: 94%;
+   margin-left: 40px;
+ }
+
+ .table-hd {
+   text-align: center;
+   border: 3px navy;
+ }
+
+ .table-rw>th {
+   color: rgb(35, 35, 74);
+
+ }
+
+ .table-body {
+   text-align: center;
+ }
